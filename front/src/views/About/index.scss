@@ -1,0 +1,11 @@
+$red: red;
+
+
+.about {
+          min-height: 100vh;
+          display: flex;
+          align-items: center;
+          &__title{
+            color: $red;
+          }
+        }
